@@ -78,7 +78,7 @@ box-shadow: 0 2px 1px 0 rgb(46, 47, 66, 0.08),
 li:hover {
     cursor: pointer; color: blue;
     background-color: #F4F4FD;
-    color: #E7E9FC;
+    color: #4d5ae5;
 }
 .tutorial{ background-color:#404BBF;
 border-radius: 4px;
